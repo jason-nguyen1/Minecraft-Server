@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2020-04-01 21:35:24 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2020-03-29 01:30:19 -0500"
@@ -308,6 +314,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2020-03-27 17:46:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2020-04-02 19:00:44 -0500"
     },
     "done": true
   },
@@ -1320,6 +1332,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2020-04-01 21:35:24 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2020-03-22 22:02:51 -0500"
@@ -1530,6 +1548,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2020-04-02 19:05:56 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_netherbrick": "2020-03-27 18:40:53 -0500"
@@ -1573,6 +1597,7 @@
       "sweet_berries": "2020-03-30 19:48:59 -0500",
       "cooked_beef": "2020-03-25 23:41:09 -0500",
       "beef": "2020-03-27 17:16:47 -0500",
+      "baked_potato": "2020-04-02 19:21:28 -0500",
       "apple": "2020-03-22 23:39:14 -0500",
       "cooked_cod": "2020-03-29 00:55:30 -0500",
       "bread": "2020-03-30 23:24:51 -0500",
@@ -1798,6 +1823,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2020-04-02 19:09:33 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2020-03-22 21:58:52 -0500"
@@ -2017,6 +2048,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2020-03-27 17:51:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2020-04-02 19:01:35 -0500"
     },
     "done": true
   },
